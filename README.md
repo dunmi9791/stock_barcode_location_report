@@ -1,0 +1,1 @@
+# stock_barcode_location_report
